@@ -148,4 +148,4 @@ Usa el botón de la sección de inicio rápido.
 
 ---
 
-*Rust · Actualizado 2026-11-17 · Compartido bajo licencia MIT*
+*Rust · Actualizado 2026-11-18 · Compartido bajo licencia MIT*
